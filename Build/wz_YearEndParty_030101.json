@@ -1,0 +1,14 @@
+{
+"companyName": "Wangzu",
+"productName": "王族尾牙活動",
+"dataUrl": "wz_YearEndParty_030101.data.unityweb",
+"asmCodeUrl": "wz_YearEndParty_030101.asm.code.unityweb",
+"asmMemoryUrl": "wz_YearEndParty_030101.asm.memory.unityweb",
+"asmFrameworkUrl": "wz_YearEndParty_030101.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
